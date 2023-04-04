@@ -1,0 +1,25 @@
+body {
+	font-weight: bold;
+	display: flex;
+	justify-content: center;
+}
+
+header {
+	font-size: 3rem;
+	display: flex;
+	justify-content: center;
+	text-decoration: underline;
+	margin-bottom: 4rem;
+}
+
+h2 {
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+#content-info {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-flow: column wrap;
+}

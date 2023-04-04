@@ -1,28 +1,20 @@
 <link rel="stylesheet" href="css/screen.css">
 
-<header> 🇽🇰 Hello, I'm Denis Topallaj! 🇧🇪 </header>
+# 🇽🇰 Hello, I'm Denis Topallaj! 🇧🇪 
 
-<h2> General </h2>
-<p> I'm a passionate developer who enjoys writing code and solving problems. </p>
+## General
 
-<p> As a student with a bachelor's degree in Applied Computer Science and a major in AI, I have a strong academic background in programming. </p>
+I'm a passionate developer who enjoys writing code and solving problems.
 
-<p> My expertise in JS, Python, HTML, and CSS demonstrates my aptitude for learning new technologies and my ability to excel in various programming languages. </p>
+As a student with a bachelor's degree in Applied Computer Science and a major in AI, I have a strong academic background in programming.
 
-<p> These are some of the languages that I have the most experience in:</p>
-<ul>
-	<li>Javascript</li>
-	<li>Python</li>
-	<li>Java</li>
-	<li>HTML</li>
-	<li>CSS</li>
-</ul>
+My expertise in JS, Java, Python, HTML, and CSS (and many more) demonstrate my atitude for learning new technologies and my ability to excel in various programming languages.
 
-<h2> Stats </h2>
+## Stats
 
 ![Detopall's github stats](https://github-readme-stats.vercel.app/api?username=Detopall&theme=merko)
 
-<h2>Contact</h2>
+## Contact
 <div id="badges">
 	<a href="mailto:denis.topallaj13@gmail.com">
 		<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>

@@ -19,4 +19,13 @@ My expertise in JS, Java, Python, HTML, and CSS (and many more) demonstrate my a
 	<a href="mailto:denis.topallaj13@gmail.com">
 		<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
 	</a>
+	<a href="https://www.linkedin.com/in/denis-topallaj/" target="_blank">
+		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+	</a>
+	<a href="https://denis-topallaj-portfolio.web.app/" target="_blank">
+		<img src="https://img.shields.io/badge/Website-g" alt="Portfolio"/>
+	</a>
+	<a href="/Denis-Topallaj-CV.pdf" target="_blank">
+		<img src="https://img.shields.io/badge/CV-red?style=for-the-badge&logo=microsoft-word&logoColor=white"/>
+	</a>
 </div>

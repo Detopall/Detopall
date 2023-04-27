@@ -8,7 +8,7 @@ I'm a passionate developer who enjoys writing code and solving problems.
 
 As a student with a bachelor's degree in Applied Computer Science and a major in AI, I have a strong academic background in programming.
 
-My expertise in JS, Java, Python, HTML, and CSS (and many more) demonstrate my attitude for learning new technologies and my ability to excel in various programming languages.
+My expertise in JS, Java, Python, HTML, and CSS (and much more) demonstrate my attitude for learning new technologies and my ability to excel in various programming languages.
 
 ## Stats
 

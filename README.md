@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="css/screen.css">
 
-# 🇽🇰 Hello, I'm Denis Topallaj! 🇧🇪 
+# 🇽🇰 Hello, I'm Denis Topallaj! 🇧🇪
 
 ## General
 
@@ -15,17 +15,18 @@ You can take a look at some of my best projects, visit my web portfolio, read my
 ![Detopall's github stats](https://github-readme-stats.vercel.app/api?username=Detopall&theme=merko)
 
 ## Contact
+
 <div id="badges">
-	<a href="mailto:denis.topallaj13@gmail.com">
-		<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-	</a>
-	<a href="https://www.linkedin.com/in/denis-topallaj/" target="_blank">
-		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-	</a>
-	<a href="https://denis-topallaj-portfolio.web.app/" target="_blank">
-		<img src="https://img.shields.io/badge/Website-g" alt="Portfolio"/>
-	</a>
-	<a href="/Denis-Topallaj-CV.pdf" target="_blank">
-		<img src="https://img.shields.io/badge/CV-red?style=for-the-badge&logo=microsoft-word&logoColor=white"/>
-	</a>
+ <a href="mailto:denis.topallaj13@gmail.com">
+  <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+ </a>
+ <a href="https://www.linkedin.com/in/denis-topallaj/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+ </a>
+ <a href="https://denis-topallaj-portfolio.web.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Website-g" alt="Portfolio"/>
+ </a>
+ <a href="/Denis-Topallaj-CV.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/CV-red?style=for-the-badge&logo=microsoft-word&logoColor=white"/>
+ </a>
 </div>

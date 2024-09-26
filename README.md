@@ -27,7 +27,7 @@ You can take a look at some of my best projects, visit my web portfolio, read my
     <img src="https://img.shields.io/badge/Portfolio-19a119?style=for-the-badge" alt="Portfolio Badge"/>
  </a>
 <a href="/Denis-Topallaj-CV.pdf" target="_blank">
-  <img src="https://img.shields.io/badge/CV-red.svg?logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8dGl0bGU+R29vZ2xlIERvY3M8L3RpdGxlPgogIDxwYXRoIGZpbGw9IndoaXRlIiBkPSJNMTQuNzI3IDYuNzI3SDE0VjBINC45MWMtLjkwNSAwLTEuNjM3LjczMi0xLjYzNyAxLjYzNnYyMC43MjhjMCAuOTA0LjczMiAxLjYzNiAxLjYzNiAxLjYzNmgxNC4xODJjLjkwNCAwIDEuNjM2LS43MzIgMS42MzYtMS42MzZWNi43MjdoLTZ6bS0uNTQ1IDEwLjQ1NUg3LjA5di0xLjM2NGg3LjA5djEuMzY0em0yLjcyNy0zLjI3M0g3LjA5MXYtMS4zNjRoOS44MTh2MS4zNjR6bTAtMy4yNzNINy4wOTFWOS4yNzNoOS44MTh2MS4zNjN6TTE0LjcyNyA2aDZsLTYtNnY6eiIvPgo8L3N2Zz4K" alt="CV" style="height: 30px;"/>
+  						<img src="https://img.shields.io/badge/CV-white?logo=google-docs&logoColor=red" style="height: 30px; border-radius: 0"/>
 </a>
 
 </div>

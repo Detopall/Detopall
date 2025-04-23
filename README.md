@@ -6,7 +6,7 @@
 
 I'm a passionate developer who enjoys writing code and solving problems.
 
-As a student with a Bachelor's degree in Applied Computer Science and a major in AI, I have a strong academic background in programming. Currently persuing a Master of Science in Information Engineering Technology at the University of Ghent.
+As a student with a Bachelor's degree in Applied Computer Science and a major in AI, I have a strong academic background in programming. Currently pursuing a Master's in Computer Science with a major in AI at the University of Hasselt.
 
 You can take a look at some of my best projects, visit my web portfolio, read my cv or send me an email.
 

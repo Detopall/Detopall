@@ -12,7 +12,12 @@ You can take a look at some of my best projects, visit my web portfolio, read my
 
 ## Stats
 
-![Detopall's github stats](https://github-readme-stats.vercel.app/api?username=Detopall&theme=merko)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Detopall&theme=merko&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=detopall&theme=merko&hide=html,purebasic&hide_progress=true&card_width=320" />
+</a>
 
 ## Contact
 

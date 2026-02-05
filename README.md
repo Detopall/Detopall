@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="css/screen.css">
 
-# 🇽🇰 Hello, I'm Denis Topallaj! 🇧🇪
+# 🇧🇪 Hello, I'm Denis Topallaj! 🇽🇰
 
 ## General
 
@@ -26,13 +26,13 @@ You can take a look at some of my best projects, visit my web portfolio, read my
   <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
  </a>
  <a href="https://www.linkedin.com/in/denis-topallaj/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/in-LinkedIn-0077B5?style=for-the-badge&labelColor=0077B5&logoColor=white" alt="LinkedIn Badge"/>
  </a>
  <a href="https://denis-topallaj-portfolio.web.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-19a119?style=for-the-badge" alt="Portfolio Badge"/>
+    <img src="https://img.shields.io/badge/Portfolio-19a119?style=for-the-badge&logo=Firebase" alt="Portfolio Badge"/>
  </a>
 <a href="/Denis-Topallaj-CV.pdf" target="_blank">
-  						<img src="https://img.shields.io/badge/CV-white?logo=google-docs&logoColor=red" style="height: 30px; border-radius: 0"/>
+  	<img src="https://img.shields.io/badge/CV-yellow?style=for-the-badge&logo=Read.cv" alt="CV badge"/>
 </a>
 
 </div>
